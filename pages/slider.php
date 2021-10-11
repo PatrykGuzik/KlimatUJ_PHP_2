@@ -1,4 +1,4 @@
-<div id="slider">
+<sector>
 	<div class="carousel-container">
 		<i class="icon-left-dir" id="prevBtn"></i>
 		<i class="icon-right-dir" id="nextBtn"></i>
@@ -14,4 +14,4 @@
 	
 		</div>
 	</div>
-</div>
+</sector>
